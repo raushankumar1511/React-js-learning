@@ -1,0 +1,21 @@
+input {
+  width: 100%;
+}
+.todo-container {
+  min-width: 550px;
+}
+.items-container {
+  text-align: left;
+}
+.item-row {
+  margin: 10px 5px;
+}
+.buttons {
+  min-width: 80px;
+  float: right;
+}
+.welcome {
+  font-size: 40px;
+  margin-top: 50px;
+  font-weight: 700;
+}

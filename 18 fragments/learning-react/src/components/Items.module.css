@@ -1,0 +1,17 @@
+.rk-item {
+  font-weight: 700;
+}
+.rk-span {
+  color: blue;
+}
+.rk-span:hover {
+  cursor: pointer;
+  color: red;
+}
+.button {
+  float: right;
+  width: 50px;
+}
+.changeBg {
+  color: aquamarine;
+}

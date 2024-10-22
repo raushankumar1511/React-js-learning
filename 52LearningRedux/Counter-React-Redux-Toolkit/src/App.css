@@ -1,0 +1,19 @@
+.counter {
+  font-weight: 500;
+}
+.button {
+  height: 70px;
+  width: 150px;
+  font-weight: bolder;
+  font-size: 17px;
+}
+.control-row,
+.privacy {
+  margin-top: 20px;
+}
+
+.number-input {
+  max-width: 120px;
+  border: solid 1px black;
+  border-radius: 3px;
+}
